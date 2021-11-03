@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any type of projects
 - 💬 Ask me about Finance
 - 📫 How to reach me: teo.andrei11@gmail.com
-- ⚡ Fun fact: Cat person / Did a 3 weeks bike trip through Europe
+- ⚡ Fun fact: Cycled along the Danube, from Germany up until Romania - 3 weeks / 6 countries / 1,800 Km
 
 
 <!--
