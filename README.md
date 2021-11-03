@@ -1,7 +1,7 @@
-### Hi there 👋
-- 👋 Hi, I am Andrei
-- 👀 I’m interested in expanding my knowledge in programming
+### Hi there! 👋 My name is Andrei
+
 - 🌱 I’m currently learning Python
+- 👀 I’m interested in expanding my knowledge in programming
 - 👯 I’m looking to collaborate on any type of projects
 - 💬 Ask me about Finance
 - 📫 How to reach me: teo.andrei11@gmail.com
